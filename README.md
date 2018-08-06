@@ -1,3 +1,3 @@
 # jungle
 
-Some Java demos.
+Some Java Utilities.

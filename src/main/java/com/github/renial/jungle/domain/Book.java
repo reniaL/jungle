@@ -1,4 +1,4 @@
-package domain;
+package com.github.renial.jungle.domain;
 
 public class Book {
 
